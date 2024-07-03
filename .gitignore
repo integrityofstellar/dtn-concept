@@ -6,3 +6,5 @@ example.txt
 /node*
 
 /dtn_storage
+
+.DS_Store
